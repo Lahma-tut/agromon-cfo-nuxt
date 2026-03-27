@@ -5,7 +5,7 @@
     <div class="container">
       <div class="header-box">
         <div class="logo-box">
-          <div class="logo">
+          <div class="logo _ibg">
             <a href="/">
               <img src="/assets/image/agronom-cfo-w.png" alt="logo-agronom-cfo" />
             </a>
